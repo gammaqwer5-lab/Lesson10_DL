@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DeadlockLab.Tests/DeadlockLab.Tests.csproj" />
+  <Project Path="DeadlockLab/DeadlockLab.csproj" />
+</Solution>
