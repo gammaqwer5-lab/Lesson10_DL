@@ -1,5 +1,4 @@
-﻿/*
-using DeadlockLab;
+﻿using DeadlockLab;
 
 namespace DeadlockLab.Tests;
 
@@ -77,4 +76,3 @@ public class BankTransferTests
         Assert.Equal(20000, accountA.Balance + accountB.Balance);
     }
 }
-*/

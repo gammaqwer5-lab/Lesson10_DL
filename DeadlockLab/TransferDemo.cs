@@ -1,5 +1,5 @@
 ﻿namespace DeadlockLab;
-/*
+
 // TODO 1. Проверить неправильную реализацию.
 // Вместо TransferSafe вызовите TransferUnsafe.
 // Запустите два параллельных перевода.
@@ -77,4 +77,3 @@ public class TransferDemo
         );
     }
 }
-*/

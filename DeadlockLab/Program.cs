@@ -23,7 +23,7 @@ internal class Program
                 break;
 
             case "2":
-                //await TransferDemo.RunSafeAsync();
+                await TransferDemo.RunSafeAsync();
                 break;
 
             case "3":
@@ -31,7 +31,7 @@ internal class Program
                     "Запустите два перевода в противоположных направлениях."
                 );
 
-                //await TransferDemo.RunSafeAsync();
+                await TransferDemo.RunSafeAsync();
                 break;
 
             default:
