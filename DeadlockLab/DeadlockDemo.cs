@@ -34,7 +34,7 @@ public class DeadlockDemo
         object lockA = new();
         object lockB = new();
         object lockC = new();
-
+         
         using Barrier barrier = new(3);
 
         Thread threadA = new(() =>
